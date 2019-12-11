@@ -1,6 +1,6 @@
 # coverage-ordering
 
-> Testing who package alphabetical ordering impacts Golang coverage reporting
+> Testing how package alphabetical ordering impacts Golang coverage reporting
 
 ```
 go get -u github.com/blend/go-sdk/cmd/coverage
